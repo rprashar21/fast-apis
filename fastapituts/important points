@@ -1,0 +1,8 @@
+to load a json file or read a file
+import json
+def load_json():
+    with open('filepath','r') as f:
+    data = json.load(f)
+
+
+ The path() function in  rest api is
