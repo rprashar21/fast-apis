@@ -1,23 +1,22 @@
 {
   "P001": {
     "name": "rohit",
-    "age": 24,
+    "age": 34,
     "email": "rohitprashar21@gmail.com"
   },
   "P002": {
-    "name": "rohit",
-    "age": 24,
-    "email": "rohitprashar21@gmail.com"
+    "name": "shabaz",
+    "age": 34,
+    "email": "shabaz@gmail.com"
   },
-
   "P003": {
-    "name": "rohit",
-    "age": 24,
-    "email": "rohitprashar21@gmail.com"
+    "name": "sene",
+    "age": 23,
+    "email": "sene@gmail.com"
   },
   "P004": {
-    "name": "rohit",
-    "age": 24,
-    "email": "rohitprashar21@gmail.com"
+    "name": "amad",
+    "age": 21,
+    "email": "amad@gmail.com"
   }
 }

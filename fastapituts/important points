@@ -5,4 +5,4 @@ def load_json():
     data = json.load(f)
 
 
- The path() function in  rest api is
+ The path() function in  rest api is used to provide metadata , validation and documentation rules

@@ -32,3 +32,6 @@ fastapi-starter/
 
 to run the application -- uvicorn is ur servver
 uvicorn main:app --reload
+
+## for documentation refer this 
+http://127.0.0.1:8000/docs
